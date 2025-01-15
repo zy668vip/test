@@ -26,8 +26,6 @@ http://b8kalbW4M95gkCC:eOZr780XkWt@156.250.123.183:11885
 socks5://b8kalbW4M95gkCC:eOZr780XkWt@156.250.123.183:11885
 http://1s9OaRURyIKsSEIE:RKRvfWJZNZErXow@156.250.123.177:14220
 socks5://1s9OaRURyIKsSEIE:RKRvfWJZNZErXow@156.250.123.177:14220
-http://nya8ihztOoj:GZ6Ou47Jab@156.250.123.174:17264
-socks5://nya8ihztOoj:GZ6Ou47Jab@156.250.123.174:17264
 http://9:999@156.250.123.173:11595
 socks5://9:999@156.250.123.173:11595
 http://9:999@156.250.123.172:27225
@@ -128,8 +126,6 @@ http://9:999@156.250.122.117:16432
 socks5://9:999@156.250.122.117:16432
 http://9:999@156.250.122.112:24289
 socks5://9:999@156.250.122.112:24289
-http://9:999@156.250.122.111:23444
-socks5://9:999@156.250.122.111:23444
 http://9:999@156.250.122.110:26351
 socks5://9:999@156.250.122.110:26351
 http://9:999@156.250.122.109:22909
@@ -170,8 +166,6 @@ http://9:999@156.250.122.92:23735
 socks5://9:999@156.250.122.92:23735
 http://9:999@156.250.122.91:25265
 socks5://9:999@156.250.122.91:25265
-http://9:999@156.250.122.90:10509
-socks5://9:999@156.250.122.90:10509
 http://9:999@156.250.122.89:10222
 socks5://9:999@156.250.122.89:10222
 http://9:999@156.250.122.88:29270
@@ -236,8 +230,6 @@ http://9:999@156.250.121.44:17813
 socks5://9:999@156.250.121.44:17813
 http://9:999@156.250.121.43:21998
 socks5://9:999@156.250.121.43:21998
-http://9:999@156.250.121.42:26253
-socks5://9:999@156.250.121.42:26253
 http://9:999@156.250.121.41:18584
 socks5://9:999@156.250.121.41:18584
 http://9:999@156.250.121.40:27252
@@ -260,8 +252,6 @@ http://9:999@156.250.121.32:13663
 socks5://9:999@156.250.121.32:13663
 http://9:999@156.250.121.33:17164
 socks5://9:999@156.250.121.33:17164
-http://9:999@156.250.121.31:18963
-socks5://9:999@156.250.121.31:18963
 http://9:999@156.250.121.30:23232
 socks5://9:999@156.250.121.30:23232
 http://9:999@156.250.121.29:29559
@@ -619,8 +609,6 @@ http://kxvxwlvd:znc54l8onpyw@119.42.39.150:5778
 socks5://kxvxwlvd:znc54l8onpyw@119.42.39.150:5778
 http://kxvxwlvd:znc54l8onpyw@45.249.104.236:6531
 socks5://kxvxwlvd:znc54l8onpyw@45.249.104.236:6531
-http://kxvxwlvd:znc54l8onpyw@45.252.59.34:6060
-socks5://kxvxwlvd:znc54l8onpyw@45.252.59.34:6060
 http://kxvxwlvd:znc54l8onpyw@45.252.58.212:6841
 socks5://kxvxwlvd:znc54l8onpyw@45.252.58.212:6841
 http://kxvxwlvd:znc54l8onpyw@119.42.39.233:5861
@@ -649,8 +637,6 @@ http://kxvxwlvd:znc54l8onpyw@119.42.39.188:5816
 socks5://kxvxwlvd:znc54l8onpyw@119.42.39.188:5816
 http://kxvxwlvd:znc54l8onpyw@119.42.36.81:5981
 socks5://kxvxwlvd:znc54l8onpyw@119.42.36.81:5981
-http://kxvxwlvd:znc54l8onpyw@119.42.36.114:6014
-socks5://kxvxwlvd:znc54l8onpyw@119.42.36.114:6014
 http://kxvxwlvd:znc54l8onpyw@45.252.59.30:6056
 socks5://kxvxwlvd:znc54l8onpyw@45.252.59.30:6056
 http://kxvxwlvd:znc54l8onpyw@45.249.104.15:6310
@@ -796,8 +782,6 @@ http://kxvxwlvd:znc54l8onpyw@45.252.58.132:6761
 socks5://kxvxwlvd:znc54l8onpyw@45.252.58.132:6761
 http://kxvxwlvd:znc54l8onpyw@45.252.59.246:6272
 socks5://kxvxwlvd:znc54l8onpyw@45.252.59.246:6272
-http://kxvxwlvd:znc54l8onpyw@45.252.59.153:6179
-socks5://kxvxwlvd:znc54l8onpyw@45.252.59.153:6179
 http://kxvxwlvd:znc54l8onpyw@45.252.58.131:6760
 socks5://kxvxwlvd:znc54l8onpyw@45.252.58.131:6760
 http://kxvxwlvd:znc54l8onpyw@45.252.58.115:6744
@@ -821,8 +805,6 @@ http://kxvxwlvd:znc54l8onpyw@45.252.59.104:6130
 socks5://kxvxwlvd:znc54l8onpyw@45.252.59.104:6130
 http://kxvxwlvd:znc54l8onpyw@45.252.59.156:6182
 socks5://kxvxwlvd:znc54l8onpyw@45.252.59.156:6182
-http://kxvxwlvd:znc54l8onpyw@45.252.58.8:6637
-socks5://kxvxwlvd:znc54l8onpyw@45.252.58.8:6637
 http://kxvxwlvd:znc54l8onpyw@119.42.39.89:5717
 http://kxvxwlvd:znc54l8onpyw@45.249.104.18:6313
 socks5://kxvxwlvd:znc54l8onpyw@45.249.104.18:6313
