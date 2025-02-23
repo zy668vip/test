@@ -262,7 +262,6 @@ socks5://kxvxwlvd:znc54l8onpyw@45.252.58.16:6645
 socks5://kxvxwlvd:znc54l8onpyw@119.42.39.172:5800
 socks5://kxvxwlvd:znc54l8onpyw@119.42.39.8:5636
 socks5://kxvxwlvd:znc54l8onpyw@119.42.36.57:5957
-socks5://kxvxwlvd:znc54l8onpyw@45.249.104.196:6491
 socks5://kxvxwlvd:znc54l8onpyw@45.252.59.195:6221
 socks5://kxvxwlvd:znc54l8onpyw@45.249.104.242:6537
 socks5://kxvxwlvd:znc54l8onpyw@45.249.104.109:6404
